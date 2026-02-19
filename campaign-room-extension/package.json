@@ -1,0 +1,46 @@
+{
+    "name": "campaign-room",
+    "displayName": "Campaign Room",
+    "description": "A warm light theme inspired by the war room of a 1960s Madison Avenue ad agency. Cork boards, manila folders, red marker annotations, and the nervous energy of a pitch deadline.",
+    "version": "1.0.0",
+    "publisher": "riverside-drive",
+    "author": {
+        "name": "Riverside Drive LTD"
+    },
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "light",
+        "warm",
+        "vintage",
+        "editorial",
+        "typewriter",
+        "madison avenue",
+        "retro",
+        "paper",
+        "agency"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Campaign Room",
+                "uiTheme": "vs",
+                "path": "./themes/campaign-room-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#EDE8DE",
+        "theme": "light"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "license": "MIT"
+}
