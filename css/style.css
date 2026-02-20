@@ -1016,7 +1016,7 @@ ul { list-style: none; }
     letter-spacing: 0.05em;
     font-family: var(--font-accent);
     border: 1px solid var(--border-color);
-    transition: background 0.2s, transform 0.2s;
+    transition: background 0.2s, transform 0.2s, color 0.2s;
 }
 
 .contact__socials a:hover {
